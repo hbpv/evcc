@@ -936,6 +936,8 @@ none = "nėra"
 priceLabel = "Energijos kaina"
 priceLimit = "Kainos limitas"
 saved = "Išsaugota."
+resetAction = "Pašalinti limitą"
+resetWarning = "Nėra sukonfigūruotos dinaminės tinklo kainos ar CO₂ šaltinio. Tačiau vis dar yra {limit} apribojimas. Išvalyti konfigūraciją?"
 
 [startupError]
 configFile = "Naudojamas konfiguracijos failas:"
