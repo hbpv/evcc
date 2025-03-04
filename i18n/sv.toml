@@ -915,6 +915,8 @@ none = "ingen"
 priceLabel = "Energipris"
 priceLimit = "Prisgräns"
 saved = "Sparad."
+resetWarning = "Varken dynamiskt elpris eller CO₂-avtryck är konfigurerat. Emellertid finns fortfarande en begränsning på {limit}. Din konfiguration kanske behöver kontrolleras?"
+resetAction = "Ta bort begränsning"
 
 [startupError]
 configFile = "Konfigurationsfil som används:"
